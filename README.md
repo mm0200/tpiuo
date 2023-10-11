@@ -1,1 +1,3 @@
-# tpiuo
+- Ime: Matija
+- Prezime: Mrvčić
+- Email: mm52413@fer.hr

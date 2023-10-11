@@ -2,7 +2,7 @@
 <html>
 <body>
 
-Prva laboratorijska vježba - izmjena
+Prva laboratorijska vježba (TPIUO) - izmjena na 5. liniji
 
 </body>
 </html>
